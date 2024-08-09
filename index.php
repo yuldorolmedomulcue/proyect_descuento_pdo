@@ -12,14 +12,14 @@
 
     <link rel="stylesheet" href="css/style.css">
 
-    <title>Redencion 10% de Descuento!</title>
+    <title>Redencion 10% de Descuento</title>
 </head>
 
 <body>
 
     <div class="container caja">
         <div class="row mt-4">
-            <h1 class="text-center">Registrate y redime el codigo para tu inicio de semestre</h1>
+            <h1 class="text-center">Registrate y redime el codigo para tu inicio de semestre!</h1>
         </div>
 
         <div class="row mt-4 mx-4"> <!--mx-4 hace mas peque;o barra de registro creado-->
