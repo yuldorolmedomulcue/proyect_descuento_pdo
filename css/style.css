@@ -1,0 +1,33 @@
+body {
+    background-color: #fec85b;
+    color: #fff;
+  }
+  
+  .caja {
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 1px solid #252f7f;
+    background: rgb(50, 61, 154);
+
+    /*     Esta propiedad crea un fondo con un degradado lineal, que va de azul oscuro a azul claro de abajo hacia arriba (0 grados). */
+    background: linear-gradient(
+      0deg,
+      rgba(50, 61, 154, 1) 0%,
+      rgba(93, 105, 203, 1) 100%
+    );
+    background-color: #5d69cb;
+    border-radius: 12px;
+    
+    /*una sombra superior con desplazamiento y difuminado, y otra más suave con un efecto transparente. Ambas sombras se combinan para crear un efecto de profundidad. */
+    -webkit-box-shadow: 0px 10px 13px -7px #000000,
+      5px 5px 15px 5px rgba(0, 0, 0, 0);
+    box-shadow: 0px 10px 13px -7px #000000, 5px 5px 15px 5px rgba(0, 0, 0, 0);
+  }
+  
+  .btnRegistrarse {
+    background-color: #6ea520;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
