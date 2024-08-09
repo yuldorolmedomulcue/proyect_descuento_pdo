@@ -17,7 +17,7 @@
 
 <body>
 
-    <div class="container mt-5 caja">
+    <div class="container caja">
         <div class="row mt-4">
             <h1 class="text-center">Registrate y redime el codigo para tu inicio de semestre</h1>
         </div>
@@ -127,7 +127,7 @@
                 </div>
                 
                 <div class="col-sm-6">
-                    <img src="img/mujer.png" class="img-fluid">
+                    <img src="img/estudiante.png" class="img-fluid">
                 </div>
             </div>
 
