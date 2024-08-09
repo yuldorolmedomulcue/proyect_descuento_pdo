@@ -12,7 +12,7 @@
 
     <link rel="stylesheet" href="css/style.css">
 
-    <title>Redencion 10% de Descuento</title>
+    <title>Redencion 10% de Descuento!</title>
 </head>
 
 <body>
